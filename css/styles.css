@@ -199,6 +199,7 @@ header{
     font-weight: 700;
     text-transform: uppercase;
     color: var(--primary-font-color);
+    margin-bottom: 10px;
 }
 .preferences, .team p{
     color: var(--secondary-font-color);
