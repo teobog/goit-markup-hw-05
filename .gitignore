@@ -1,4 +1,5 @@
 # Logs
+.idea
 logs
 *.log
 npm-debug.log*
@@ -102,3 +103,8 @@ dist
 
 # TernJS port file
 .tern-port
+.idea/vcs.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/github-study.iml
+.idea/modules.xml
+.idea/workspace.xml
